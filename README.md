@@ -1,1 +1,1 @@
-# projeto-finacas-js
+# projeto-financeiro-js
